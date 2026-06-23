@@ -19,6 +19,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Yoshi-Mahajan&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshi-Mahajan&layout=compact)
+
+
 ## 🎯 Goals for 2026
 
 - Solve 200+ DSA problems
