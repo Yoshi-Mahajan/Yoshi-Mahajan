@@ -19,6 +19,10 @@
 
 ---
 
+## 💡 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yoshimahajan?theme=dark&font=Karma)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?Yoshi-Mahajan&show_icons=true)
