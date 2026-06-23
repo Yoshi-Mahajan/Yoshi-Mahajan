@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Yoshi-Mahajan&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoshi-Mahajan&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshi-Mahajan&layout=compact)
 
